@@ -1,0 +1,5 @@
+# Moving files around and verifying them
+packages:
+  - kubelet-1.22.0
+  - kubeadm-1.22.0
+  - kubectl-1.22.0
